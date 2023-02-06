@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493785614461",
+    "project_id": "hizzz-439a5",
+    "storage_bucket": "hizzz-439a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493785614461:android:fd4cdec987a869e0d54914",
+        "android_client_info": {
+          "package_name": "com.hizz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493785614461-p46te6dftg5k5ht1af278ti90ede4hqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOJRSTBVYhobSdCDiWuRTOkRtiCB_QvGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493785614461-p46te6dftg5k5ht1af278ti90ede4hqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
